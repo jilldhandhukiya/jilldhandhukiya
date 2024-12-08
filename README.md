@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+It's+Jill+Dhandhukiya!;" />
 </h1>
 
-<h3 align="center">🌟 Application Developer | Tech Enthusiast</h3>
+<h3 align="center">🌟 Application Developer </h3>
 
 <div align="center">
     <a href="mailto:mail.jill@skiff.com">
