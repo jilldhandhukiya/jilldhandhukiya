@@ -18,7 +18,7 @@
 <p align="center">Crafting solutions with passion and precision</p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,tailwind,nodejs,expressjs,react,nextjs,flask,github,aws,docker,figma,mysql,postgresql,mongodb,redis,firebase,flutter,solidity,go,dotnet,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,tailwind,nodejs,expressjs,react,nextjs,flask,github,aws,docker,figma,mysql,postgresql,mongodb,redis,firebase,dart,flutter,solidity,go,dotnet,linux,nginx" />
 </div>
 <br/>
 
