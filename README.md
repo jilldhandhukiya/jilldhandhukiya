@@ -25,7 +25,7 @@
 <h2 align="center">🌍 Let's Connect!</h2>
 <p align="center">I'm always open to collaborating or just having a chat!</p>
 <div align="center">
-    <a href="mailto:mail.jill@skiff.com">
+    <a href="mailto:jilldhandhukiya2005@yahoo.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.linkedin.com/in/jilldhandhukiya/" target="_blank">
