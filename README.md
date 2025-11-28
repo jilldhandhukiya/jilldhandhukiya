@@ -2,7 +2,7 @@
 
 # Hi There! 👋 I'm Jill Dhandhukiya
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jill+Dhandhukiya!;Full+Stack+Developer;Problem+Solver+%26+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jill+Dhandhukiya!" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWljaWQxejl5Y2RhbTJjb3Q4cDJveG1vazc0OTM1aTkwaGtuODl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding Animation" width="400" />
 
@@ -24,13 +24,13 @@
 <img src="https://img.shields.io/badge/Frontend-%23121011.svg?style=for-the-badge"/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter,electron" />
 <br/>
 
 <img src="https://img.shields.io/badge/Backend-%23121011.svg?style=for-the-badge"/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,flask,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,flask,dotnet,spring,fastapi" />
 <br/>
 
 <img src="https://img.shields.io/badge/Database-%23121011.svg?style=for-the-badge"/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/DevOps_&_Tools-%23121011.svg?style=for-the-badge"/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,kafka" />
 
 <br/>
 
