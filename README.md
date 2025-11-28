@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi There! 👋 I'm Jill Dhandhukiya
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jill+Dhandhukiya!" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWljaWQxejl5Y2RhbTJjb3Q4cDJveG1vazc0OTM1aTkwaGtuODl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding Animation" width="400" />
