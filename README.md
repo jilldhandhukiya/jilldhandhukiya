@@ -45,23 +45,23 @@
 <br/>
 
 ---
+   <!-- 
+    ## 📈 GitHub Analytics
 
-## 📈 GitHub Analytics
+    <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jilldhandhukiya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jilldhandhukiya&theme=radical&hide_border=true" />
+    </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jilldhandhukiya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jilldhandhukiya&theme=radical&hide_border=true" />
-</p>
+    <br/>
 
-<br/>
+    ---
 
----
+    ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jilldhandhukiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
+    <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jilldhandhukiya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+    </p> -->  
 
 <br/>
 
